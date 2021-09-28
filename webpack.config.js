@@ -11,9 +11,9 @@ const jsLoaders = () => {
   const loaders = [
     {
       loader: 'babel-loader',
-      options: {
-        presets: ['@babel/presert-env']
-      }
+/*       options: {
+        presets: '@babel/presert-env'
+      } */
     }
   ]
 
